@@ -1,0 +1,4 @@
+https://boardgamegeek.readthedocs.io/modules.html#module-boardgamegeek.utils
+https://boardgamegeek.com/wiki/page/BoardGameGeek_FAQ#
+https://boardgamegeek.com/wiki/page/About_the_BoardGameGeek_Wiki#
+https://cardboardbutler.blob.core.windows.net/cardboardbutler/index.html
